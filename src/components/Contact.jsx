@@ -59,7 +59,7 @@ return ( <section className="section contact-section" id="contact"> <div classNa
 
       <button
         className="btn primary"
-        onClick={() => (window.location.href = "/")}
+        onClick={() => (window.location.href = "https://amirsuhail21.github.io/My-Portfolio/")}
       >
         Go Back
       </button>
