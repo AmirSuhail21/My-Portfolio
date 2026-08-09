@@ -28,12 +28,8 @@ Welcome to the repository of my personal portfolio website! This project is a cl
 ## 📸 Screenshots
 
 | Desktop View | Mobile View |
-|--- |--- |
-| ![Desktop Screenshot](<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/1b1ba937-9137-4dda-9b2e-f3ec4e3a6b13" />
-) | ![Mobile Screenshot](<img width="540" height="1204" alt="a" src="https://github.com/user-attachments/assets/ea9028f7-de5c-41a7-ada1-9e59607463f2" />
-) |
-
-*(Tip: Replace these placeholder links with actual screenshots from your repository's image assets)*
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/1b1ba937-9137-4dda-9b2e-f3ec4e3a6b13" width="100%" alt="Desktop View" /> | <img src="https://github.com/user-attachments/assets/ea9028f7-de5c-41a7-ada1-9e59607463f2" width="100%" alt="Mobile View" /> |
 
 ---
 
