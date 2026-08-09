@@ -29,7 +29,8 @@ Welcome to the repository of my personal portfolio website! This project is a cl
 
 | Desktop View | Mobile View |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/1b1ba937-9137-4dda-9b2e-f3ec4e3a6b13" width="100%" alt="Desktop View" /> | <img src="https://github.com/user-attachments/assets/ea9028f7-de5c-41a7-ada1-9e59607463f2" width="100%" alt="Mobile View" /> |
+| <img src="https://github.com/user-attachments/assets/1b1ba937-9137-4dda-9b2e-f3ec4e3a6b13" width="100%" alt="Desktop View" /> | <img width="540" height="1050" alt="a" src="https://github.com/user-attachments/assets/c974f03e-d428-4f41-a820-9f7806e0ac32" />
+ |
 
 ---
 
