@@ -1,25 +1,26 @@
 # 🌐 My Portfolio Website
 
-Welcome to the repository of my personal portfolio website! This project is a clean, modern, and fully responsive portfolio designed to showcase my skills, projects, and professional journey as a developer.
+Welcome to the repository of my personal portfolio website! This project is a clean, modern, and fully responsive portfolio built using **React** and **Vite**, designed to showcase my skills, projects, and professional journey as a developer.
 
-ℹ️ **Live Demo:** [amirsuhail21.github.io/My-Portfolio](https://amirsuhail21.github.io/My-Portfolio/)
+ℹ️ **Live Demo:** [amirsuhail21.github.io/My-Portfolio](https://github.io)
 
 ---
 
 ## 🚀 Features
 
+- **Blazing Fast Performance:** Powered by Vite's ultra-fast build tool and hot module replacement (HMR).
+- **Component-Driven Architecture:** Modular and reusable UI components built with React.
 - **Responsive Design:** Fully optimized for all screen sizes (Mobiles, Tablets, and Desktops).
 - **Modern UI/UX:** Clean layouts with smooth animations for a premium user experience.
 - **Projects Section:** Dynamic display of my best work with direct links to source code and live previews.
-- **Contact Form:** An easy way for recruiters and clients to connect with me directly.
-- **Fast Loading:** Built with optimized code structures to ensure fast loading speeds.
 
 ---
 
 ## 🛠️ Tech Stack Used
 
+- **Framework:** React.js (Hooks, Functional Components)
+- **Build Tool:** Vite
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-- **Styling/Frameworks:** [Aapne agar Bootstrap/Tailwind use kiya hai to yahan likhein, nahi to remove kar dein]
 - **Hosting:** GitHub Pages
 
 ---
@@ -28,7 +29,9 @@ Welcome to the repository of my personal portfolio website! This project is a cl
 
 | Desktop View | Mobile View |
 |--- |--- |
-| ![Desktop Screenshot](https://placeholder.com) | ![Mobile Screenshot](https://placeholder.com) |
+| ![Desktop Screenshot](<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/1b1ba937-9137-4dda-9b2e-f3ec4e3a6b13" />
+) | ![Mobile Screenshot](<img width="540" height="1204" alt="a" src="https://github.com/user-attachments/assets/ea9028f7-de5c-41a7-ada1-9e59607463f2" />
+) |
 
 *(Tip: Replace these placeholder links with actual screenshots from your repository's image assets)*
 
@@ -48,8 +51,16 @@ Follow these simple steps to set up and run this project on your local machine:
    cd My-Portfolio
    ```
 
-3. **Open the project:**
-   Simply double-click the `index.html` file to view it in your browser, or use the **Live Server** extension in VS Code.
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+4. **Start the local development server:**
+   ```bash
+   npm run dev
+   ```
+   *Your React application will now be running locally (usually at `http://localhost:5173`).*
 
 ---
 
