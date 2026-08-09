@@ -1,58 +1,61 @@
 function Hero() {
-  return (
-    <section className="hero" id="home">
-      <div className="hero-content">
-        <p className="hero-small">👋 Hello, I'm</p>
+  return (<section className="hero" id="home"> <div className="hero-content"> <p className="hero-small">👋 Hello, I'm</p>
 
-        <h1>
-          Amir <span>Suhail</span>
-        </h1>
 
-        <h2>Web Developer</h2>
+    <h1>
+      Amir <span>Suhail</span>
+    </h1>
 
-        <p className="hero-description">
-          BCA final-year student and passionate Web Developer focused on
-          building responsive and user-friendly web applications using
-          React.js, Node.js and JavaScript.
-        </p>
+    <h2>Web Developer</h2>
 
-        <div className="hero-buttons">
-          <a href="#projects" className="btn primary">
-            View My Projects
-          </a>
+    <p className="hero-description">
+      BCA final-year student and passionate Web Developer focused on
+      building responsive and user-friendly web applications using
+      React.js, Node.js and JavaScript.
+    </p>
 
-          <a href="#contact" className="btn secondary">
-            Contact Me
-          </a>
-        </div>
+    <div className="hero-buttons">
+      <a href="#projects" className="btn primary">
+        View My Projects
+      </a>
 
-        <div className="social-links">
-          <a
-            href="https://github.com/amirsuhail21"
-            target="_blank"
-            rel="noreferrer"
-          >
-            GitHub
-          </a>
+      <a href="#contact" className="btn secondary">
+        Contact Me
+      </a>
+    </div>
 
-          <span>•</span>
+    <div className="social-links">
+      <a
+        href="https://github.com/amirsuhail21"
+        target="_blank"
+        rel="noreferrer"
+      >
+        GitHub
+      </a>
 
-          <a
-            href="https://in.linkedin.com/in/amir-suhail-13a776338/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            LinkedIn
-          </a>
-        </div>
+      <span>•</span>
+
+      <a
+        href="https://in.linkedin.com/in/amir-suhail-13a776338/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        LinkedIn
+      </a>
+    </div>
+  </div>
+
+    <div className="hero-image">
+      <div className="profile-circle">
+        <img
+          src={`${import.meta.env.BASE_URL}profile.jpg`}
+          alt="Amir Suhail"
+        />
       </div>
+    </div>
+  </section>
 
-      <div className="hero-image">
-        <div className="profile-circle">
-          <img src="/profile.jpg" alt="Amir Suhail" />
-        </div>
-      </div>
-    </section>
+
   );
 }
 
