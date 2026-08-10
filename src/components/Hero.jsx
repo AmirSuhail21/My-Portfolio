@@ -42,6 +42,15 @@ function Hero() {
       >
         LinkedIn
       </a>
+
+      <span>•</span>
+
+      <a
+        href={`${import.meta.env.BASE_URL}resume.pdf`}
+        download="Amir_Suhail_Resume.pdf"
+      >
+        Resume
+      </a>
     </div>
   </div>
 
