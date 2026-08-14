@@ -2,7 +2,7 @@
 
 Welcome to the repository of my personal portfolio website! This project is a clean, modern, and fully responsive portfolio built using **React** and **Vite**, designed to showcase my skills, projects, and professional journey as a developer.
 
-ℹ️ **Live Demo:** [amirsuhail21.github.io/My-Portfolio](https://amirsuhail21.github.io/My-Portfolio/))
+ℹ️ **Live Demo:** [Click Here](https://amirsuhail21.github.io/My-Portfolio/)
 
 ---
 
