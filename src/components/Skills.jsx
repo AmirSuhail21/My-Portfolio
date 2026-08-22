@@ -13,6 +13,10 @@ const skills = [
   "Git",
   "GitHub",
   "Pug",
+  "Material-UI (MUI)",
+  "React Hooks",
+  "Fetch API",
+  "Error Handling"
 ];
 
 function Skills() {
