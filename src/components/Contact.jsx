@@ -29,7 +29,7 @@ try {
     setSubmitted(true);
 
     setTimeout(() => {
-      window.location.href = "/";
+      window.location.href = "https://amirsuhail21.github.io/My-Portfolio/";
     }, 5000);
   } else {
     alert("Something went wrong. Please try again.");
